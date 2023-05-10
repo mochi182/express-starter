@@ -12,7 +12,7 @@ This starter provides a simple MVC structure for organizing code. It includes ro
 
 ## 🚀 CRUD starter
 
-This starter contains basic CRUD features for managing data. It includes authentication and authorization middleware, error handling, and database integration using Sequelize ORM. Check it out at: https://github.com/mochi182/express-starters/tree/master/crud-starter
+This starter contains basic CRUD features for managing data. It includes authentication and authorization middleware, error handling, and database integration using Sequelize ORM.
 
 [Link](https://github.com/mochi182/express-starters/tree/master/crud-starter)
 
