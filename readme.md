@@ -1,8 +1,6 @@
 # Express starters
 
-🚧 Work in progress
-
-# 📝 Description
+(🚧 Work in progress)
 
 Express starters aims to provide base code to quickly start a new express project. It contains different examples, each with different features. The goal is to save time by not having to write boilerplate code and instead focus on building the project.
 
